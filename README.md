@@ -35,4 +35,4 @@
 
 :heavy_check_mark: `Funcionalidad 3:` Valida campo mensaje encriptado o desencriptado vacío al mostrarse botón Copiar.
 
-:heavy_check_mark: `Funcionalidad 4:` No muestra imagen al haber texto en campo mensaje o al presionar botones Encriptar o Desencriptar.
+:heavy_check_mark: `Funcionalidad 4:` Se oculta imagen al presionar botones Encriptar o Desencriptar y lo muestra al copiar el texto.
