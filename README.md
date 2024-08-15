@@ -9,6 +9,15 @@
   </h1>
 </div>
 
+<div align="center">
+  <h1 align="center">
+    <img src="https://img.shields.io/badge/Estado-Finalizado-green">
+    
+  </h1>
+</div>
+
+
+
 ### Temas 
 
 - [Descripción del proyecto](#descripción-del-proyecto)
