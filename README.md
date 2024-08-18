@@ -21,11 +21,14 @@
 
 - [Descripción del proyecto](#descripción-del-proyecto)
 - [Funcionalidades](#funcionalidades)
+- [Desarrollado por](#desarrollado-por)
+
 
 ### Descripción del proyecto 
 
 <p align="justify">
  Este proyecto forma parte del desafío del programa ONE de Oracle/Alura Latam, es un proyecto sencillo donde se reemplazan las vocales para encriptar el texto ingresado, así como lo inverso, que es desencriptar el texto </p>
+
 
 ### Funcionalidades
 
@@ -36,6 +39,7 @@
 :heavy_check_mark: `Funcionalidad 3:` Valida campo mensaje encriptado o desencriptado vacío al mostrarse botón Copiar.
 
 :heavy_check_mark: `Funcionalidad 4:` Se oculta imagen al presionar botones Encriptar o Desencriptar y lo muestra al copiar el texto.
+
 
 ### Desarrollado por:
 <img src="https://img.shields.io/badge/Jarvis%20Tovar-blue">
